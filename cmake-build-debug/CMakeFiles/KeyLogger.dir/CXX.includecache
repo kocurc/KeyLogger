@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kordi/Desktop/Informatyka/C++_Projects/KeyLogger/main.cpp
+iostream
+-
+windows.h
+-
+winuser.h
+-
+fstream
+-
+

@@ -1,0 +1,3 @@
+C:/Users/kordi/Desktop/Informatyka/C++_Projects/KeyLogger/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kordi/Desktop/Informatyka/C++_Projects/KeyLogger/cmake-build-debug/CMakeFiles/KeyLogger.dir
+C:/Users/kordi/Desktop/Informatyka/C++_Projects/KeyLogger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
